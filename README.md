@@ -1,0 +1,51 @@
+# Hacked Site and SEO Spam Detector | TAVARDT Canada
+
+[![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/ca/seo-spam-detector/)
+[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
+Forensic audit scanner designed to identify cloaked spam campaigns, unauthorized door pages, and concealed text compromises across Canadian websites.
+
+Developed and maintained by the web integrity and digital forensics unit at **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+
+---
+
+## Forensic Audit and SEO Compromise Capabilities
+
+* **Search Engine Cloaking Audit**: Comparative response inspection evaluating discrepancies between regular visitor sessions and search bots.
+* **Concealed Link and Script Injection**: Discovery of illicit door pages, invisible anchor links, and hidden styling techniques.
+* **Conditional Traffic Redirection**: Spotting rogue redirect headers and script behaviors targeting specific search referral traffic.
+* **Forensic Posture Score**: Objective 0 to 100 security index detailing remediation steps for compromised domains.
+
+---
+
+## Installation and Execution
+
+Requires Python 3.8 or higher using standard library modules exclusively.
+
+```bash
+git clone https://github.com/TAVARDT-Canada/hacked-site-seo-spam-detector-ca.git
+cd hacked-site-seo-spam-detector-ca
+python seo_spam_detector.py example.ca
+```
+
+For programmatic JSON output:
+
+```bash
+python seo_spam_detector.py example.ca --json
+```
+
+---
+
+## Online Diagnostic Platform
+
+For ad-hoc web integrity reviews and immediate infection scanning:
+
+* **[Official Hacked Site and SEO Spam Detector](https://tools.tavardt.com/ca/seo-spam-detector/)**
+* **[TAVARDT Canada Portal](https://ag.tavardt.com/ca/)**
+
+---
+
+## Canadian Web Forensics and Hardening Advisory
+
+For incident mitigation, code decontamination, and alignment with CCCS Cyber Security Baseline and Web Protections, contact the specialists at **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
