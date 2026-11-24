@@ -5,7 +5,7 @@
 
 Forensic audit scanner designed to identify cloaked spam campaigns, unauthorized door pages, and concealed text compromises across Canadian websites.
 
-Developed and maintained by the web integrity and digital forensics unit at **TAVARDT Canada**.
+Developed and maintained by the web integrity and digital forensics unit at **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python seo_spam_detector.py example.ca -json
 For ad-hoc web integrity reviews and immediate infection scanning:
 
 * **Official Hacked Site and SEO Spam Detector**
-* **TAVARDT Canada Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Canadian Web Forensics and Hardening Advisory
 
-For incident mitigation, code decontamination, and alignment with CCCS Cyber Security Baseline and Web Protections, contact the specialists at **TAVARDT Canada**.
+For incident mitigation, code decontamination, and alignment with CCCS Cyber Security Baseline and Web Protections, contact the specialists at **TAVARDT**.
 
 ***
 
