@@ -1,4 +1,4 @@
-# Hacked Site and SEO Spam Detector | TAVARDT Canada
+# Hacked Site and SEO Spam Detector
 
 [![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/ca/seo-spam-detector/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For ad-hoc web integrity reviews and immediate infection scanning:
 ## Canadian Web Forensics and Hardening Advisory
 
 For incident mitigation, code decontamination, and alignment with CCCS Cyber Security Baseline and Web Protections, contact the specialists at **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
